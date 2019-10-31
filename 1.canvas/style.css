@@ -1,0 +1,20 @@
+body {
+    margin-top : 10%;
+    margin-bottom : 10%;
+    text-align: center;
+    background-image : url(img/background.jpg);
+
+}
+h1{
+    color : purple;
+}
+button{
+    position: absolute; 
+    top:50%; 
+    left:50%;
+}
+#mainCanvas{
+
+    background-image: url(img/fond.jpg); 
+    background-size: 700px 500px;
+}

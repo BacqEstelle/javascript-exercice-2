@@ -29,12 +29,19 @@
                 margin-bottom: 2em;
                 display: block;
             }
-            blockquote {
-
+            #quote {
+                border : 3px solid black;
+                border-radius: 2%;
+                background-color: linen;
                 font-family: "adriane",Georgia,serif;
                 line-height: 1.4;
                 text-align: center;
                 font-size: 24px;
+            }
+            .citation{
+                font-style: italic;
+                text-shadow: 0.03em 0 #fff, -0.03em 0 #fff, 0 0.03em #fff, 0 -0.03em #fff, 0.06em 0 #fff, -0.06em 0 #fff, 0.09em 0 #fff, -0.09em 0 #fff, 0.12em 0 #fff, -0.12em 0 #fff, 0.15em 0 #fff, -0.15em 0 #fff;
+                
             }
 
             .photo {
@@ -55,7 +62,8 @@
             </style>
     </head>
     <body>
-
+    <h1>Citation du jour</h1>
+    <small>sources: thatsthespir.it</small>
         <blockquote id="quote"></blockquote>
 
 <script src="./script.js"></script>
