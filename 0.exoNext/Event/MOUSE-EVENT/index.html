@@ -1,0 +1,60 @@
+<!--
+ * becode/javascript
+ *
+ * /01-base/01-var-alert/index.html - 1.1: var & alert
+ *
+ * coded by leny@BeCode
+ * started at 26/10/2018
+-->
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8" />
+        <title>BeCode/JavaScript - 2.0.1 : Mousse Event</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" />
+        <link rel="stylesheet" href="../../../_shared/css/normalize.css" />
+        <link rel="stylesheet" href="../../../_shared/css/styles.css" />
+    </head>
+    <body>
+        <div class="container">
+            <header>
+                <h1>BeCode / JavaScript</h1>
+                <h2>
+                    <span>2.0.1</span>
+                    <strong>Mousse Event</strong>
+                </h2>
+            </header>
+            <div class="content">
+                <section>
+                    <p><strong>Exercice 1</strong></p>
+                    <p>Crée (en HTML) 3 DIV possedant la même classe 'hoverMe'</p>
+                    <p>Faire disparaitre les divs lorsqu'on passe la souris dessus</p>
+                    <q>Tip : utiliser le mouseenter ou mouseover</q>
+                    <p><strong>Exercices 2</strong></p>
+                    <p>Crée (en HTML) une DIV avec l'id "reset"</p>
+                    <p>Faire en sorte que quand on clique dessus elle fasse réapparaître les 3 divs premièrement créées</p>
+                    <q>Tip : avec une animation çe serait super cool</q>
+                    <p><strong>Exercices 3</strong></p>
+                    <p>Crée (en HTML) 2 DIV avec une id chacune 'axe-x' et 'axe-y'</p>
+                    <p>Faire en sorte que lorsque l'on bouge la souris dans la fenêtre, la position sois affiché dans les divs associés</p>
+                    <q>Tip : Utiliser l'evenement reçu en argument Tip : Utiliser innerHTML ou innerText</q>
+                </section>
+                <section>
+                       <p><div id="axe-x"></div></p>
+                       <p><div id="axe-y"></div></p>
+                <p><div class="hoverMe">Je suis la première div</div></p>
+                <p><div class="hoverMe">Je suis la deuxième div</div></p>
+                <p><div class="hoverMe">Je suis la troisième div</div></p>
+                </section>
+                <div id="reset">
+                        <button type="button" id="run">Affichage des divs</button>
+                </div>
+
+            </div>
+        </div>
+
+        <script src="./script.js"></script>
+    </body>
+</html>
+

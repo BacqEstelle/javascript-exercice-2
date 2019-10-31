@@ -1,0 +1,209 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Cyclops",
+      "alterEgo": "Scott Summers",
+      "abilities": [
+        "Optic force blasts",
+        "Master tactician"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Marvel Girl",
+      "alterEgo": "Jean Grey",
+      "abilities": [
+        "Telekinesis",
+        "Telepathy",
+        "Astral projection"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Beast",
+      "alterEgo": "Hank McCoy",
+      "abilities": [
+        "Genius-level intellect",
+        "Animal-like physiology with enhanced physical attributes and sharp claws and teeth"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Angel",
+      "alterEgo": "Warren Worthington III",
+      "abilities": [
+        "Flight via feathered wings and hollow bones",
+        "Aerial adaptation",
+        "Enhanced physical prowess"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Iceman",
+      "alterEgo": "Bobby Drake",
+      "abilities": [
+        "Cold and ice manipulation",
+        "Ability to assume an enhanced physical form made of solid ice"
+      ]
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    },
+    {
+      "id": 23
+    },
+    {
+      "id": 24
+    },
+    {
+      "id": 25
+    },
+    {
+      "id": 26
+    },
+    {
+      "id": 27
+    },
+    {
+      "id": 28
+    },
+    {
+      "id": 29
+    },
+    {
+      "id": 30
+    },
+    {
+      "id": 31
+    },
+    {
+      "id": 32
+    },
+    {
+      "id": 33
+    },
+    {
+      "id": 34
+    },
+    {
+      "id": 35
+    },
+    {
+      "id": 36
+    },
+    {
+      "id": 37
+    },
+    {
+      "id": 38
+    },
+    {
+      "id": 39
+    },
+    {
+      "name": "test",
+      "alterEgo": "re",
+      "abilities": [
+        "be"
+      ],
+      "id": 40
+    },
+    {
+      "name": "moi",
+      "alterEgo": "estelle",
+      "abilities": [
+        "aucun"
+      ],
+      "id": 41
+    },
+    {
+      "name": "test",
+      "alterEgo": "test",
+      "abilities": [
+        "test"
+      ],
+      "id": 42
+    },
+    {
+      "name": "moi",
+      "alterEgo": "Estelle",
+      "abilities": [
+        "aucun"
+      ],
+      "id": 43
+    },
+    {
+      "name": "test",
+      "alterEgo": "test",
+      "abilities": [
+        "tesss"
+      ],
+      "id": 46
+    },
+    {
+      "name": "testeee",
+      "alterEgo": "re",
+      "abilities": [
+        "baaa"
+      ],
+      "id": 47
+    },
+    {
+      "name": "plop",
+      "alterEgo": "re",
+      "abilities": [
+        "poyo"
+      ],
+      "id": 48
+    }
+  ]
+}
